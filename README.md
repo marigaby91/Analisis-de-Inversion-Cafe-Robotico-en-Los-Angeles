@@ -1,4 +1,3 @@
-# Analisis de inversion para un cafe regentado por robots en los angeles
 Objetivó: Presentar una propuesta para posibles inversinita de un cafe robotico en LA, usando como base los datos libres de restaurantes en la ciudad. 
 Conclusiones: 
 - Se uso una data de más de 9651 establecimientos de comida en la ciudad de Los Ángeles. 
