@@ -11,10 +11,7 @@ Conclusiones:
 
 Tecnologías Utilizadas:
 
-Python: Elegido por su versatilidad y facilidad de uso, Python es ideal para la manipulación y análisis de grandes volúmenes de datos.
-
-Pandas: Esta biblioteca se utilizó para la manipulación y análisis de datos, permitiendo manejar de manera eficiente los datos de los más de 9,651 establecimientos y realizar operaciones complejas de manera sencilla.
-
-NumPy: Utilizado para realizar cálculos numéricos y gestionar arreglos multidimensionales, NumPy facilitó el análisis estadístico y la realización de cálculos necesarios para obtener insights del mercado.
-
-Seaborn: Esta biblioteca de visualización se empleó para crear gráficos atractivos y comprensibles, ayudando a presentar los hallazgos de manera visual y accesible, lo que es crucial para comunicar la propuesta a posibles inversores.
+- Python: Elegido por su versatilidad y facilidad de uso, Python es ideal para la manipulación y análisis de grandes volúmenes de datos.
+- Pandas: Esta biblioteca se utilizó para la manipulación y análisis de datos, permitiendo manejar de manera eficiente los datos de los más de 9,651 establecimientos y realizar operaciones complejas de manera sencilla.
+- NumPy: Utilizado para realizar cálculos numéricos y gestionar arreglos multidimensionales, NumPy facilitó el análisis estadístico y la realización de cálculos necesarios para obtener insights del mercado.
+- Seaborn: Esta biblioteca de visualización se empleó para crear gráficos atractivos y comprensibles, ayudando a presentar los hallazgos de manera visual y accesible, lo que es crucial para comunicar la propuesta a posibles inversores.
